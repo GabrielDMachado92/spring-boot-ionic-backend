@@ -2,7 +2,6 @@ package com.gdmachado.cursomc.dto;
 
 import java.io.Serializable;
 
-import javax.persistence.ExcludeSuperclassListeners;
 import javax.validation.constraints.NotEmpty;
 
 import org.hibernate.validator.constraints.Length;

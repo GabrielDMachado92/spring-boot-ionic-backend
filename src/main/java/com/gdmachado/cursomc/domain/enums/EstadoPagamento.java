@@ -1,7 +1,5 @@
 package com.gdmachado.cursomc.domain.enums;
 
-import java.io.Serializable;
-
 public enum EstadoPagamento{
 
 	PENDENTE(1, "Pendente"),	
